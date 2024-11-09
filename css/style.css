@@ -26,6 +26,9 @@ section h3 {
   font-weight: 800;
   margin-bottom: 5px;
 }
+.navbar-toggler{
+  background-color: #eee;
+}
 .padding {
   padding: 100px 0;
 }
